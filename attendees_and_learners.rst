@@ -364,4 +364,3 @@ I followed the tutorial online
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
 * David Gildour, davidgildour@gmail.com, DavidGildour
-* Greg Lake, Emerson, Lake and Palmer
